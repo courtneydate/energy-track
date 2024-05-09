@@ -8,4 +8,6 @@ Energy track Energy Price Tracking Model
 -Location data
 -Tariff data
 
-Model will be run using python 
+Model will be run using python and TensorFlow
+
+Stored in GitHub Repository energy-track
